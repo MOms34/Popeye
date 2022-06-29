@@ -40,6 +40,12 @@ Puis pour fermer le container Docker :
 >> sudo docker-compose down -v
 
 ```
+## Captures d'écrans
+
+installation :
+![Screenshot](screenshots/screen1.png)
+
+
 
 
 
